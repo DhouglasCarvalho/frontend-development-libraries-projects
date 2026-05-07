@@ -19,7 +19,7 @@ A React-based Markdown previewer built for the freeCodeCamp Front End Developmen
 
 ## Live Demo
 
-CodePen: paste-your-codepen-url-here
+CodePen: https://codepen.io/dhouglascarvalho/pen/ByQoXNr
 
 ## Certification
 
