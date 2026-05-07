@@ -19,7 +19,7 @@ A React-based drum machine built for the freeCodeCamp Front End Development Libr
 
 ## Live Demo
 
-CodePen: paste-your-codepen-url-here
+CodePen: https://codepen.io/dhouglascarvalho/pen/ByQoXjx
 
 ## Certification
 
